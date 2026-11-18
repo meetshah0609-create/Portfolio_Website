@@ -17,6 +17,7 @@ const Hero = () => {
         Check out my work
       </a>
     </section>
+    
   );
 };
 
